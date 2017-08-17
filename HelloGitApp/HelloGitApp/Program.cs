@@ -10,7 +10,8 @@ namespace HelloGitApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World" + " it is made by Noman");
+            Console.ReadLine();
         }
     }
 }
