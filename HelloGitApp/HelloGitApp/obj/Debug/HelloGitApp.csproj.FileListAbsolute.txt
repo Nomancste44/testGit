@@ -1,0 +1,6 @@
+c:\users\noman abdullah\documents\visual studio 2013\Projects\testGit\HelloGitApp\HelloGitApp\bin\Debug\HelloGitApp.exe.config
+c:\users\noman abdullah\documents\visual studio 2013\Projects\testGit\HelloGitApp\HelloGitApp\bin\Debug\HelloGitApp.exe
+c:\users\noman abdullah\documents\visual studio 2013\Projects\testGit\HelloGitApp\HelloGitApp\bin\Debug\HelloGitApp.pdb
+c:\users\noman abdullah\documents\visual studio 2013\Projects\testGit\HelloGitApp\HelloGitApp\obj\Debug\HelloGitApp.csprojResolveAssemblyReference.cache
+c:\users\noman abdullah\documents\visual studio 2013\Projects\testGit\HelloGitApp\HelloGitApp\obj\Debug\HelloGitApp.exe
+c:\users\noman abdullah\documents\visual studio 2013\Projects\testGit\HelloGitApp\HelloGitApp\obj\Debug\HelloGitApp.pdb
